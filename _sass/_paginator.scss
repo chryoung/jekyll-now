@@ -1,0 +1,12 @@
+.paginator {
+  text-align: center;
+  font-size: 12px;
+
+  .previous, .next {
+    font-size: 1.2rem;
+  }
+
+  .unavailable {
+    color: #cacaca;
+  }
+}
